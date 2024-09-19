@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ozore Orero</h1>
+<h1 align="center">Hi 👋, I'm Kayode George</h1>
 <h3 align="center">A software engineer focused on building web experiences.</h3>
 
 
