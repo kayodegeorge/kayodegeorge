@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/thekayodeg" target="blank"><img src="https://img.shields.io/twitter/follow/thekayodeg?logo=twitter&style=for-the-badge" alt="thekayodeg" /></a> </p>
 
-- 🌱 I’m currently learning **Three js and Blender**
+- 🌱 I’m currently learning **Physics and Rapier**
 
 - 👯 I’m looking to collaborate on **cool stuff!!**
 
