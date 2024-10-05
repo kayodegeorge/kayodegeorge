@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **cool stuff!!**
 
-- 📝 You can always find me on [http://twitter.com/thekayodeg](http://twitter.com/thekayodeg)
+- 📝 Catch me saying random stuff [http://twitter.com/thekayodeg](http://twitter.com/thekayodeg)
 
 - 💬 Ask me about **Animations, Film and Music**
 
